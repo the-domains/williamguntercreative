@@ -1,14 +1,28 @@
+name: Williamguntercreative
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  lightness: 0.7401434
-  brandStrength: 0.671473
-  rhythmicContrast: 0.6648746
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-name: Williamguntercreative
+    - '#151319'
+    - '#3c3b40'
+    - '#595f68'
+    - '#fef1d7'
+    - '#93aec2'
+  brandStrength: 0.8125
+  lightness: 0.1875
+  saturation: 0.25
+  rhythmicContrast: 0.25
+purpose: []
